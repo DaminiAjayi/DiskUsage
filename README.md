@@ -6,7 +6,7 @@ This script was developed using python3 and requires python3 for usage.
 The application only uses std libraries, therefore there are no other external dependencies required to be installed
 
 # Usage
-This application takes in the mount point as an argument and can be used as follows: 
+Clone this repository and run the script such that it takes in the mount point as an argument. Used as follows:
 
 ``` 
 python3 getdiskusage.py mountpoint
